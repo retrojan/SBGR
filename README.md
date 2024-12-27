@@ -1,6 +1,12 @@
 <p align="center">
+  <h1 align="center">
+  <a href="https://github.com/retrojan/SBGR/releases/download/SBGR/SBGR.zip">Download</a></h1>
+
+
+  
   <img src="https://i.imgur.com/VUiu23X.png"/>
 </p>
+
 
 # How to use
 There will be two exe files in the archive: ConfigEditor.exe and SBGR.exe
