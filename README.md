@@ -1,10 +1,8 @@
 <p align="center">
-  <h1 align="center">
-  <a href="https://github.com/retrojan/SBGR/releases/download/SBGR/SBGR.zip">Download</a></h1>
-
-
-  
+ <h1 align="center">SBGR</h1>
   <img src="https://i.imgur.com/VUiu23X.png"/>
+        <h1 align="center"><a href="https://github.com/retrojan/SBGR/releases/download/SBGR/SBGR.zip">Download Here</a></h1>
+
 </p>
 
 
