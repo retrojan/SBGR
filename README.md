@@ -1,8 +1,11 @@
+
 <p align="center">
  <h1 align="center">SBGR</h1>
+ <p align="center">https://t.me/ReTrojan</p>
   <img src="https://i.imgur.com/VUiu23X.png"/> 
 
 </p>
+
 
 - [DOWNLOAD HERE](https://github.com/retrojan/SBGR/releases/download/SBGR/SBGR.zip)
 
