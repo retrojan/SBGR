@@ -7,6 +7,7 @@
 
 
 - [DOWNLOAD HERE](https://github.com/retrojan/SBGR/releases/download/SBGR/SBGR.zip)
+  
 SBGR.exe - this is the main file that is responsible for boosting hours in the game.
 
 
