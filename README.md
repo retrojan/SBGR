@@ -1,7 +1,6 @@
 
 <p align="center">
  <h1 align="center">SBGR</h1>
- <p align="center">https://t.me/ReTrojan</p>
   <img src="https://i.imgur.com/VUiu23X.png"/> 
 
 </p>
@@ -10,10 +9,7 @@
 - [DOWNLOAD HERE](https://github.com/retrojan/SBGR/releases/download/SBGR/SBGR.zip)
 SBGR.exe - this is the main file that is responsible for boosting hours in the game.
 <p align="center">
- <h1 align="center">SBGR</h1>
- <p align="center">https://t.me/ReTrojan</p>
   <img src="https://i.imgur.com/4tUHn83.png"/> 
-
 </p>
 # How to use
 There will be two exe files in the archive: ConfigEditor.exe and SBGR.exe
