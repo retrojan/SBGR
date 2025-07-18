@@ -1,1 +1,1 @@
-// Coders: Frimedox(ReTrojan)
+// Coders: ReTrojan
